@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Band_MODULE_V1_00-rescue)(type Legacy)(uri ${KIPRJMOD}/Band_MODULE_V1_00-rescue.lib)(options "")(descr ""))
+  (lib (name LPF-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/LPF-v2-rescue.lib)(options "")(descr ""))
+)

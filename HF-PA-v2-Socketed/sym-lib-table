@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name custom)(type Legacy)(uri /home/dhiru/repos/HF-PA-v2/HF-PA-v2/libraries/custom.lib)(options "")(descr ""))
+  (lib (name HF-PA-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/HF-PA-v2-rescue.lib)(options "")(descr ""))
+  (lib (name uSDX_LPF_BAND_Module)(type Legacy)(uri "${KIPRJMOD}/libraries/uSDX LPF BAND Module.lib")(options "")(descr ""))
+)
